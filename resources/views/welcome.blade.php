@@ -90,9 +90,6 @@
                 display: none;
             }
             .btn-p{
-                position: absolute;
-                left: 310px;
-                top: 155px;
                 border-radius: 50%;
                 background-image: url('/img/photograph.png');
                 background-repeat: no-repeat;
